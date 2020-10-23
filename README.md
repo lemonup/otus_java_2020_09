@@ -11,5 +11,5 @@
 Дмитрий Коган
 
 ### Студент:
-Vladimir Frlelikh (Владимир Фрелих)<br>
+Vladimir Frelikh (Владимир Фрелих)<br>
 frelikhvv@nspk.ru
