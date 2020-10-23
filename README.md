@@ -14,4 +14,4 @@ README.md
 
 Студент:
 Vladimir Frlelikh (Владимир Фрелих)
-e285ne@gmail.com
+frelikhvv@nspk.ru
